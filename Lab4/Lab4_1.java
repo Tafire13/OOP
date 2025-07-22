@@ -11,7 +11,6 @@ public class Lab4_1 {
         JFrame frame = createFrame();
         createButton(frame);
         frame.setVisible(true);
-
     }
 
     public static JFrame createFrame() {
